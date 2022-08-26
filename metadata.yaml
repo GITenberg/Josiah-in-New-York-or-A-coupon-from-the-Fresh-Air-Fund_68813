@@ -1,0 +1,35 @@
+_repo: Josiah-in-New-York-or-A-coupon-from-the-Fresh-Air-Fund_68813
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Otis, James
+    aliases:
+    - Kaler, James Otis
+    - Orton, James K.
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+    wikipedia:
+    - https://en.wikipedia.org/wiki/James_Otis_Kaler
+    - http://www.gutenberg.org/ebooks/author/49402
+description: ''
+gutenberg_issued: '2022-08-22'
+identifiers:
+  gutenberg: '68813'
+language: en
+pgterms:marc904: https://archive.org/details/josiahinnewyorko00otis/page/n8/mode/2up
+pgterms:marc905: 20200408205402otis
+pgterms:marc906: '1893'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :A. I. Bradley & Co.,1893.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Josiah in New York: or, A coupon from the Fresh Air Fund'
+url: http://www.gutenberg.org/ebooks/68813

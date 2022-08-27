@@ -1,5 +1,8 @@
 _repo: Josiah-in-New-York-or-A-coupon-from-the-Fresh-Air-Fund_68813
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68813-h/images/cover.jpg
 creator:
   author:
     agent_name: Otis, James
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/James_Otis_Kaler
     - http://www.gutenberg.org/ebooks/author/49402
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68813#Josiah-in-New-York-or-A-coupon-from-the-Fresh-Air-Fund
 gutenberg_issued: '2022-08-22'
 identifiers:
   gutenberg: '68813'
